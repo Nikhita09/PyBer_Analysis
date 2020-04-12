@@ -20,7 +20,7 @@ Observations:
     - Urban cities have the hightest total rides and drivers; while Rural cities have the lowest.  
     - Urban cities have the lowest average fare per ride and average fare per driver; while Rural cities have the highest.  
 
-![Total Fares by City type](Analysis/Total Fare by City Type.png)
+![](Analysis/Total%20Fare%20by%20City%20Type.png)
 
 Observations:  
     - The total fares for Rural cities fall in between $0 - $500.  
