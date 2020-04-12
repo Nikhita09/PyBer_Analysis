@@ -8,7 +8,8 @@ The CEO wants you to create an overall snapshot of the ride-sharing data. She wo
 
 ## Resources
 
-Data Source : city_data.csv , ride_data.csv. 
+Data Source : city_data.csv , ride_data.csv
+
 Software : Python 3.7.7, Anaconda 2019.07, Conda 4.11.7, Jupyter Notebook, Pandas, Matplotlib. 
 
 ## Summary
